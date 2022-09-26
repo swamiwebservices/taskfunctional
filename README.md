@@ -1,0 +1,2 @@
+# taskfunctional
+rectjs functional compenet
